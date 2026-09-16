@@ -1,3 +1,8 @@
+# Indice
+- [Titulo](#titulo-importante)
+- [Funciones](#funciones)
+- [creando-tablas](#creando-tablas)
+- [tablas](#mermaid-diagramas)
 # Importante
 Me encuentro aprendiendo *Markdown* en las clases con Pallin
 ## subtitulo 01
@@ -53,7 +58,7 @@ C --> |Si| D[Acceder al Sistema]
 C --> |No| E[Error del Sistema]
 ```
 
-## Mermaid Diagramas 
+## Mermaid Diagrama 
 ```mermaid
 flowchart TD
 A[Tecsup]--> B[breve concepto]
